@@ -1,0 +1,7 @@
+/build/
+/dist/
+*.class
+*.log
+hs_err_pid*
+replay_pid*
+/nbproject/private/
